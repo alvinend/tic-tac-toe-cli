@@ -1,5 +1,5 @@
 {
-  "name": "tic-tac-toe-bot",
+  "name": "@alvinend/tic-tac-toe-bot",
   "version": "1.0.0",
   "description": "Tic Tac Toe CLI with Node Js",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "author": "Alvin Endratno",
   "license": "ISC",
   "type": "module",
-  "bin": "./init.js",
+  "bin": "./index.js",
   "dependencies": {
     "chalk": "^4.1.2",
     "figlet": "^1.5.2",
