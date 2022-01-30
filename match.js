@@ -28,7 +28,6 @@ export const startGame = async (board, firstPlayer, secondPlayer) => {
 
     await board.place(inTurnPlayer)
 
-    logUpdate.clear()
     board.print()
 
     // Check If has winner
